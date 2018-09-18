@@ -1,0 +1,2 @@
+recursive-include pathology/static *
+recursive-include pathology/templates *
